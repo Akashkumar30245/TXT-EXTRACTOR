@@ -78,9 +78,9 @@ cd TXT-EXTRACTOR
 pip3 install -r requirements.txt
 
 # Set your API credentials
-export API_ID=123456
-export API_HASH=your_api_hash
-export BOT_TOKEN=your_bot_token
+export API_ID=23626191
+export API_HASH=a1416a7b389a7d6d4466ae5e014f7518
+export BOT_TOKEN=8168226391:AAGrkHRXmH3SukxsgWyFCkF_6YiXa0b532o
 
 # Run the bot
 python3 bot.py
